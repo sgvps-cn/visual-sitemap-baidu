@@ -1,4 +1,4 @@
-# 百度SEO优化
+# WordPress插件 - 百度SEO优化
 
 完全免费全后台可视化配置，自动生成SEO友好Sitemap，百度快速收录，WordPress全站SEO优化，每天自动推送，伪原创设置。
 
